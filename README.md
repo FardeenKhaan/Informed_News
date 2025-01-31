@@ -1,16 +1,31 @@
-# getx_news_app
+# 📰 Informed News  
 
-A new Flutter project.
+A modern Flutter-based news application that fetches real-time news from an API, providing users with an elegant and seamless reading experience.  
 
-## Getting Started
+## ✨ Features  
 
-This project is a starting point for a Flutter application.
+- 🌐 **Fetch Latest News** – Stay updated with the latest headlines.  
+- 🔍 **Search Functionality** – Find news articles quickly.  
+- 🌙 **Dark & Light Mode** – Choose between themes for a comfortable reading experience.  
+- ✨ **Shimmer Effect** – Smooth loading animation for a better UX.  
+- ⚡ **Fast & Responsive** – Optimized API fetching and UI performance.  
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack  
+
+- **Flutter** – Cross-platform UI framework  
+- **Dart** – Programming language  
+- **News API** – Fetching real-time news  
+- **Provider / Riverpod** – State management  
+- **Shimmer Package** – Loading animations  
+
+## 📞 Contact Me
+Looking to collaborate or hire me? Let’s connect:
+- **Email**: [fardeenkhaan70@gmail.com]
+- **LinkedIn**: [https://linkedin.com/in/fardeenkhan51]
+- **Twitter**: [https://x.com/KhaanFardeen1]
+
+## ✨ How to View My Portfolio
+The portfolio is live and can be accessed [here](https://fk-portfolio.web.app).

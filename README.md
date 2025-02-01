@@ -12,13 +12,19 @@ A modern Flutter-based news application that fetches real-time news from an API,
 
 ## 📸 Screenshots  
 
+<img src="https://github.com/user-attachments/assets/7ba1e4f3-a760-44d6-be02-3f0da09e0499" width="250" height="450"/>  
+<img src="https://github.com/user-attachments/assets/9619edfd-9123-4456-bea5-f6a801e7f63b" alt="work" width="250" height="450">
+<img src="https://github.com/user-attachments/assets/22616efe-4c81-4b7a-b318-ed77252a7163" alt="work" width="250" height="450">  
+<img src="https://github.com/user-attachments/assets/7a8c2271-aeb0-4821-8b13-ff445b8393f0" alt="work" width="250" height="450">
+<img src="https://github.com/user-attachments/assets/fa291b67-1a42-445c-bb1d-67327c38893b" alt="work" width="250" height="450">
+
 
 ## 🛠️ Tech Stack  
 
 - **Flutter** – Cross-platform UI framework  
 - **Dart** – Programming language  
 - **News API** – Fetching real-time news  
-- **Provider / Riverpod** – State management  
+- **Get-X** – State management  
 - **Shimmer Package** – Loading animations  
 
 ## 📞 Contact Me
